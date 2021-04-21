@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tjbulick
 - 👀 I’m interested in web development, including both frontend and backend
-- 🌱 I’m currently learning Next.js, GraphQL, lerna
+- 🌱 I’m currently learning Next.js, GraphQL, lerna, Gatsby.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Telegram, email
 
